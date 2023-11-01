@@ -1,0 +1,1 @@
+As part of earning my certification in Artificial Intelligence and Machine Larning for Business Application I was required to work on 9 real world projects. These projects involved various prediction, visualization, and classifxation models. # Logan-Nolff-Project-Portfolio
