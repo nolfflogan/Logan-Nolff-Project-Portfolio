@@ -1,1 +1,1 @@
-As part of earning my certification in Artificial Intelligence and Machine Larning for Business Application I was required to work on 9 real world projects. These projects involved various prediction, visualization, and classifxation models. # Logan-Nolff-Project-Portfolio
+Earning my certification in Artificial Intelligence and Machine Learning for Business Applications from the University of Texas at Austin. I was required to work on 9 real world projects. These projects involved various prediction, visualization, and classifcation models. # Logan-Nolff-Project-Portfolio
